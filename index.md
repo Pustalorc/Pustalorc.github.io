@@ -8,7 +8,7 @@
 
 <h1>Programs in developement</h1>
 
-Unturned Server Manager V3.0.0.0 - Time Left: <SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript"><!--
+Unturned Server Manager V3.0.0.0 - Time Left: <div id="countbox"></div><SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript"><!--
 
 dateFuture = new Date(2017,0,1,17,00,00);
 
@@ -52,7 +52,7 @@ function GetCount(){
 window.onload=function(){GetCount();}//call when everything has loaded
 
 //-->
-</script><div id="countbox"></div>
+</script>
 
 Rocket Remote - A plugin that works like an API for external programs to hook up with the unturned servers.
 
