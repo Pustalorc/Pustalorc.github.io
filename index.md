@@ -8,8 +8,7 @@
 
 <h1>Programs in developement</h1>
 
-Unturned Server Manager V3.0.0.0 - Time Left:
-<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript"><!--
+Unturned Server Manager V3.0.0.0 - Time Left: <SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript"><!--
 
 dateFuture = new Date(2017,0,1,17,00,00);
 
