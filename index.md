@@ -4,8 +4,11 @@
 
 [Rocket Rules](https://persiafighter.github.io/Rocket-Rules/) [![Build status](https://ci.appveyor.com/api/projects/status/pb6sp9f67e4dj9is?svg=true)](https://ci.appveyor.com/project/persiafighter/rocket-rules)
 
+[Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)](https://ci.appveyor.com/project/persiafighter/fakegambling-crash)
+
 <h1>Programs in developement</h1>
 
+Unturned Server Manager - Time Left: 
 <SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
 <!--
 
@@ -53,8 +56,6 @@ window.onload=function(){GetCount();}//call when everything has loaded
 //-->
 </script><div id="countbox"></div>
 
-
-Unturned Server Manager - Time Left: 
 
 Rocket Remote - A plugin that works like an API for external programs to hook up with the unturned servers.
 
