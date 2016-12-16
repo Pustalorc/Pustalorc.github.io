@@ -1,3 +1,12 @@
+<h1>Public Programs</h1>
+
+[Unturned Server Manager](https://persiafighter.github.io/UnturnedServerManager/) [![Build status](https://ci.appveyor.com/api/projects/status/bocigasg3gog25rg/branch/master?svg=true)](https://ci.appveyor.com/project/persiafighter/unturnedservermanager/branch/master)
+
+[Rocket Rules](https://persiafighter.github.io/Rocket-Rules/) [![Build status](https://ci.appveyor.com/api/projects/status/pb6sp9f67e4dj9is?svg=true)](https://ci.appveyor.com/project/persiafighter/rocket-rules)
+
+<h1>Programs in developement</h1>
+
+Unturned Server Manager - Time Left: <div id="countbox"></div>
 <SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
 <!--
 
@@ -44,15 +53,6 @@ window.onload=function(){GetCount();}//call when everything has loaded
 
 //-->
 </script>
-<h1>Public Programs</h1>
-
-[Unturned Server Manager](https://persiafighter.github.io/UnturnedServerManager/) [![Build status](https://ci.appveyor.com/api/projects/status/bocigasg3gog25rg/branch/master?svg=true)](https://ci.appveyor.com/project/persiafighter/unturnedservermanager/branch/master)
-
-[Rocket Rules](https://persiafighter.github.io/Rocket-Rules/) [![Build status](https://ci.appveyor.com/api/projects/status/pb6sp9f67e4dj9is?svg=true)](https://ci.appveyor.com/project/persiafighter/rocket-rules)
-
-<h1>Programs in developement</h1>
-
-Unturned Server Manager - Time Left: <div id="countbox"></div>
 
 Rocket Remote - A plugin that works like an API for external programs to hook up with the unturned servers.
 
