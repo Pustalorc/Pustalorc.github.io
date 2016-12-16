@@ -14,8 +14,6 @@ Rocket Jobs - A roleplay plugin that allows players to get a job without the nee
 
 #Custom Programs/Plugins
 
-Trader City - A plugin to allow players to buy and sell in specific locations of the map. - Reserved to '[Ikatzuki](http://steamcommunity.com/id/Ikatzuki1/)'
-
 Reputation Loadout - A plugin that will give a loadout/kit to a player after respawn when the player has a specific reputation. - Reserved to '[Ikatzuki](http://steamcommunity.com/id/Ikatzuki1/)'
 
 #Donate
