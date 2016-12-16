@@ -54,7 +54,7 @@ window.onload=function(){GetCount();}//call when everything has loaded
 //-->
 </script><div id="countbox"></div>
 
-Rocket Remote - A plugin that works like an API for external programs to hook up with the unturned servers.
+Rocket Remote - A plugin that works like a communications API for external programs to hook up with the unturned servers.
 
 Rocket Trading - A plugin that allows players to trade items with eachother without having to be near themselves.
 
