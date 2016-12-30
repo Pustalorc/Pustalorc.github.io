@@ -1,10 +1,10 @@
 <h1>Public Programs</h1>
 
-[Unturned Server Manager](https://persiafighter.github.io/UnturnedServerManager/) [![Build status](https://ci.appveyor.com/api/projects/status/bocigasg3gog25rg/branch/master?svg=true)](https://ci.appveyor.com/project/persiafighter/unturnedservermanager/branch/master)
+[Unturned Server Manager](https://persiafighter.github.io/UnturnedServerManager/) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)]()
 
-[Rocket Rules](https://persiafighter.github.io/Rocket-Rules/) [![Build status](https://ci.appveyor.com/api/projects/status/pb6sp9f67e4dj9is?svg=true)](https://ci.appveyor.com/project/persiafighter/rocket-rules)
+[Rocket Rules](https://persiafighter.github.io/Rocket-Rules/) [![Build status](https://ci.appveyor.com/api/projects/status/pb6sp9f67e4dj9is?svg=true)]()
 
-[Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)](https://ci.appveyor.com/project/persiafighter/fakegambling-crash)
+[Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)]()
 
 <h1>Programs in developement</h1>
 
