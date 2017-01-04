@@ -6,7 +6,7 @@
 
 [Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)]() - Very simple Gambling type game.
 
-[RPG](https://github.com/persiafighter/FakeGambling-Crash) - A very old game that I programmed in VBS. It was never finnished, but it worked more or less like a game.
+[RPG](https://github.com/persiafighter/RPG-VBS) - A very old game that I programmed in VBS. It was never finnished, but it worked more or less like a game.
 
 <h1>Programs in developement</h1>
 
