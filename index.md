@@ -6,7 +6,7 @@
 
 [Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)]() - Very simple Gambling type game. Uses a cryptography method for the "randomness".
 
-[RPG - (OLD Forums and developement info)](http://rpg-v2.boards.net/) - A very old game that I programmed in VBS. It was never finnished, but it worked more or less like a game, including save states, 1 single exit point (since I didn't know where else to add them), a "story", and a flow of direction.
+[RPG - (OLD Forums and developement info)](http://rpg-v2.boards.net/) [RPG - (Github Page)](https://github.com/persiafighter/RPG) - A very old game that I programmed in VBS. It was never finnished, but it worked more or less like a game, including save states, 1 single exit point (since I didn't know where else to add them), a "story", and a flow of direction.
 
 <h1>Custom Or Private Programs/Plugins</h1>
 
