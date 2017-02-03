@@ -23,4 +23,5 @@ Reputation Loadout - A plugin that will give a loadout/kit to a player after res
 <h1>Donate</h1>
 
 Steam - [Inventory](https://steamcommunity.com/tradeoffer/new/?partner=171975117&token=nPB07kkc)
+
 Bitcoin - 1ELHJnL8x4EqrpFKL5MtKz3CgmAdz7RvQQ
