@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/persiafighter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://persiafighter.github.io
+  * I am persiafighter (https://keybase.io/persiafighter) on keybase.
+  * I have a public key with fingerprint C1CC 6E80 0D15 65AC 4A89  A356 DBFE 7CF3 2B66 E7DF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e89e99bfd9ee9983c05dc39ab5a566ee62362bd2a394ca88dec2ac8ebde6f3440a",
+            "fingerprint": "c1cc6e800d1565ac4a89a356dbfe7cf32b66e7df",
+            "host": "keybase.io",
+            "key_id": "dbfe7cf32b66e7df",
+            "kid": "010103e13d95816e5d9e8355fd5b43ca12fdcd5b4af286e8ae95b51c3843f816cf190a",
+            "uid": "1a0f19f35bfd4cac353b0db7f6a94619",
+            "username": "persiafighter"
+        },
+        "service": {
+            "hostname": "persiafighter.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486164048,
+    "expire_in": 157680000,
+    "prev": "6380bbd1e614701563da33e52105210678553445f11ac5c7ed6d153cdea956fb",
+    "seqno": 25,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJ7UBVVHL4EXRJ1gBjQLBjZ/oCQcPfunn1cw0c6EhCMjA8o0dvu2bOX
+BbwX713AO0iDU5SBvHSAUYdmyGFImaCUYILEiEcGSBER5CUCHxMSlsbkpNits5T/
+OWfOnNf3fef7PXpXehv8vNyewwvrlF9+9hrs/jDXkFYdsKOAkOyyizAXEFloaUHZ
+MnJqlixVJswESZlIxAtIECRFFhBeeRqSQIa0IEpABCyLEGuiWZMkm0RaYKDI8zKC
+JhHySJIRq9AMQ4pENKGoNity5DhUm4ZlIQUhi3iSlCnAAhEyIi+INGBlSUEcVGiT
+hIU5WcHEDLtTZ2BzkuhEMaod3+GDZcneY/CPfONBI4qWBcBTLALYPE8DoMhAYmgo
+UiZFhvpeVEw8diIiAUiAgjTP0AomQIUSlnznLslRIokvFBrgLOAYIQ1oiZQlTmFF
+gWEpQQc6kcMmHkAYnYMcTlVUVGuGhhxEYTSBn/JUiPTs6uE8DhZjVbWMXOm/+HIc
+ds0O7dkYlKFpOU6zLqK5cnRWPpIs/+tZJNUm47xiRp6uZbcRZgojoabqH1AMz1Is
+QzJ8NIEO5agOZFF1BOBYnHmS1P9BeViSpXlSkmQKsRTDkbgitCzSNAImitQny/EA
+4DoChaJECCCHZBbXjYYyEgXAKhKhR3jQZifMJoB9ilas6VStNlHLdSCi8MvudB+D
+l5/B+OQTesMZ/JYFPGrDMJe/hyt9uLHW0La1/KUuPrH54G+XO6HgfS/E3lrNrTrx
+SsreY4ea64b7xa013j19XTMRy3fFa/KljHdfe93dfrRg9wpj8v5fg5cHtlVPje6O
+XL9yzVRDvwWunQluerZy6rvEuJrw3pKwks1zzcKR2yb/5nlhU5nxdOzLEaueWte5
+s6i3/ELPP7cvpm1Jmbh5fTA1PDhiW+9Q4wffhO+6GZZrURKu1jBj4I4ndMtX0LF9
+5prNE5h0fPMnSe6F6VOF22bvlvf7n+vY25kfVDleNhs1GZ8+dtYzkiZMLZOKI4uc
+PvfnEnyNCWee771VX3tspGT93Nq5AyFG9/0LqU1XqrkNtSO3JgPjkmliMbq1MLPj
+90qvj5K/HvmjOrjEI7svFw90hzcdXe3r4i6aix8Y8oNK74y3F7Q3bvx4eni1KaXh
+Gke+Pbt2v28UOLkQtfjZ0zeyAxojf6hrOT2YPOJ35o27rn31/NVnYrPqQj4tMhec
+Svu8rrvqXuD20A1/Tr+TuaMvcdHT6PdclWIda1gxtoe8HntpOIXr2PnCF+Yb78MK
+iQs67x63BU4EjLa8+uNQ4RGvFjjq1lKZhz7vsRXNrZXGTT0Vzq70b1sbv7ckz8fb
+eX/XlXTY9Zc0H/pTy4N64+A5+cWYE6Vx5pPammjj2YS/h2L2JL11vGqAsrUdHqiZ
+OJ9p9EzuK+tbeDPpXzTQzzY=
+=/LHC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/persiafighter
+
+==================================================================
