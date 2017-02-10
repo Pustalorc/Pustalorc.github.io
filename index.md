@@ -6,7 +6,7 @@
 
 [Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)]() - Very simple Gambling type game. Uses a cryptography method for the "randomness".
 
-[RPG - (OLD Forums and developement info)](http://rpg-v2.boards.net/) -- [RPG - (Github Page)](https://github.com/persiafighter/RPG) - A very old game that I programmed in VBS. It was never finnished, but it worked more or less like a game, including save states, 1 single exit point (since I didn't know where else to add them), a "story", and a flow of direction. Project is abandoned.
+[RPG - (OLD Page)](http://rpg-v2.boards.net/) -- [RPG - (Github Page)](https://github.com/persiafighter/RPG) - A very old game that I programmed in VBS. It was never finnished, but it worked more or less like a game, including save states, 1 single exit point (since I didn't know where else to add them), a "story", and a flow of direction. Project is abandoned.
 
 <h1>Custom Or Private Programs/Plugins</h1>
 
@@ -18,7 +18,7 @@ Reputation Loadout - A plugin that will give a loadout/kit to a player after res
 
 [FeexRanks](https://github.com/Freenex1911/FeexRanks) - Added a common suggestion: after leveling up, getting a permission rank. - [View pull request](https://github.com/Freenex1911/FeexRanks/pull/2)
 
-[NameKicker](https://github.com/Teyhota/NameKicker) - Not yet accepted - Added suggestions from the comments found in [rocketmod](https://dev.rocketmod.net/plugins/namekicker/), Added ability of infite banned words and fixed few description mistakes. - [View pull request](https://github.com/Teyhota/NameKicker/pull/1)
+[NameKicker](https://github.com/Teyhota/NameKicker) - Accepted but not merged - Added suggestions from the comments found in [rocketmod](https://dev.rocketmod.net/plugins/namekicker/), Added ability of infite banned words and fixed few description mistakes. - [View pull request](https://github.com/Teyhota/NameKicker/pull/1)
 
 <h1>Donate</h1>
 
