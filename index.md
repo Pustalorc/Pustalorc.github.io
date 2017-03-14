@@ -2,13 +2,13 @@
 
 [Unturned Server Manager](/UnturnedServerManager/) - Main and biggest program ever done by me. Currently on version 3.0.1.3. Works around the game "unturned" and allows the user to host servers with the program.
 
-[Rocket Rules](/Rocket-Rules/) [![Build status](https://ci.appveyor.com/api/projects/status/pb6sp9f67e4dj9is?svg=true)]() - Plugin for the game "unturned". Works with a few simple mathematical functions. In a nutshell, it displays rules to player on join or when they do /rules.
+[Rocket Rules](/Rocket-Rules/) - Plugin for the game "unturned". Works with a few simple mathematical functions. In a nutshell, it displays rules to player on join or when they do /rules.
 
 [Duty](https://github.com/Ev1dentFir3/Duty) - Plugin for unturned. In a nutshell, it gives superadmin powers to the player that does /duty. Disclaimer: I did NOT develop this one, only fixed up the code and re-uploaded it to rocketmod.
 
 [Rocket IP](https://github.com/persiafighter/Rocket-IP) - Plugin for unturned. In a nutshell, it gets the IP of a player who is currently connected to your server.
 
-[Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)]() - Very simple Gambling type game. Uses a cryptography method for the "randomness".
+[Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) - Very simple Gambling type game. Uses a cryptography method for the "randomness".
 
 [Unturned Downloader](https://github.com/persiafighter/unturned-downloader) - A standalone module that Unturned Server Manager uses.
 
