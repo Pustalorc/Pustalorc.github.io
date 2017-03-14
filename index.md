@@ -1,8 +1,12 @@
-<h1>Public Programs</h1>
+<h1>Public Programs/Plugins/Libraries</h1>
 
-[Unturned Server Manager](https://persiafighter.github.io/UnturnedServerManager/) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)]() - Main program ever done. Currently on version 3.0.1.3. Works around the game "unturned" and allows the user to host servers with the program.
+[Unturned Server Manager](/UnturnedServerManager/) - Main and biggest program ever done by me. Currently on version 3.0.1.3. Works around the game "unturned" and allows the user to host servers with the program.
 
-[Rocket Rules](https://persiafighter.github.io/Rocket-Rules/) [![Build status](https://ci.appveyor.com/api/projects/status/pb6sp9f67e4dj9is?svg=true)]() - Plugin for the game "unturned". Works with a few simple mathematical functions.
+[Rocket Rules](/Rocket-Rules/) [![Build status](https://ci.appveyor.com/api/projects/status/pb6sp9f67e4dj9is?svg=true)]() - Plugin for the game "unturned". Works with a few simple mathematical functions. In a nutshell, it displays rules to player on join or when they do /rules.
+
+[Duty](https://github.com/Ev1dentFir3/Duty) - Plugin for unturned. In a nutshell, it gives superadmin powers to the player that does /duty. Disclaimer: I did NOT develop this one, only fixed up the code and re-uploaded it to rocketmod.
+
+[Rocket IP](https://github.com/persiafighter/Rocket-IP) - Plugin for unturned. In a nutshell, it gets the IP of a player who is currently connected to your server.
 
 [Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) [![Build status](https://ci.appveyor.com/api/projects/status/lnc18aoqi6s50u2w?svg=true)]() - Very simple Gambling type game. Uses a cryptography method for the "randomness".
 
@@ -12,7 +16,7 @@
 
 <h1>Custom Or Private Programs/Plugins</h1>
 
-Reputation Loadout - A plugin that will give a loadout/kit to a player after respawn when the player has a specific reputation. Also has the ability to give a Rank to a player after a few set of kills. - Reserved to '[Ikatzuki](http://steamcommunity.com/id/Ikatzuki1/)'
+Reputation Loadout - A plugin that will give a loadout/kit to a player after respawn when the player has a specific reputation. Also has the ability to give a Rank to a player after a few set of kills. - Reserved to '[Ikatzuki](http://steamcommunity.com/id/Ikatzuki1/)' - Able for sell at a price of 5$.
 
 <h1>Contributions:</h1>
 
@@ -21,6 +25,11 @@ Reputation Loadout - A plugin that will give a loadout/kit to a player after res
 [FeexRanks](https://github.com/Freenex1911/FeexRanks) - Added a common suggestion: after leveling up, getting a permission rank. - [View pull request #1](https://github.com/Freenex1911/FeexRanks/pull/2), [View pull request #2](https://github.com/Freenex1911/FeexRanks/pull/5), where a bug with this addition was found.
 
 [NameKicker](https://github.com/Teyhota/NameKicker) - Accepted but not merged - Added suggestions from the comments found in [rocketmod](https://dev.rocketmod.net/plugins/namekicker/), Added ability of infite banned words and fixed few description mistakes. - [View pull request](https://github.com/Teyhota/NameKicker/pull/1)
+
+<h1>Work In Progress</h1>
+
+Reputation - Plugin for unturned. In a nutshell, it adds the command /reputation from vanilla to use with rocket directly.
+Jobs - Plugin for unturned. Trojaner has his [own](https://imperialplugins.com/Products/ProductDetails?ProductID=7) version, i'm still trying to develop a public version that will most likely be worse than Trojaner's version.
 
 <h1>Donate</h1>
 
