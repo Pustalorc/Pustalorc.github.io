@@ -16,7 +16,8 @@
 
 <h1>Custom Or Private Programs/Plugins</h1>
 
-Reputation Loadout - A plugin that will give a loadout/kit to a player after respawn when the player has a specific reputation. Also has the ability to give a Rank to a player after a few set of kills. - Reserved to '[Ikatzuki](http://steamcommunity.com/id/Ikatzuki1/)' - You can buy it from me for 5€.
+Reputation Loadout - Plugin for unturned. In a nutshell, it will give a loadout/kit to a player after respawn when the player has a specific reputation. Also has the ability to give a Rank to a player after a few set of kills. - Reserved to '[Ikatzuki](http://steamcommunity.com/id/Ikatzuki1/)' - You can buy it from me for 5€.
+Tempban - Plugin for unturned. In a nutshell it adds the command /tempban to be able to ban temporarily a player. Currently, when using rocketmod, "/ban player/reason/time" causes/has problems and is kind of unstable. - You can buy it from me for 1€.
 
 <h1>Contributions:</h1>
 
