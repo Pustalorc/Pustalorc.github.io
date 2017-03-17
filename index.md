@@ -29,11 +29,11 @@ Reputation Loadout - A plugin that will give a loadout/kit to a player after res
 <h1>Work In Progress</h1>
 
 <ol>
-<li>[WIP] Jobs - Plugin for unturned. Trojaner has his <a href="https://imperialplugins.com/Products/ProductDetails?ProductID=7">own</a> version, i'm still trying to develop a public version that will most likely be worse than Trojaner's version.</li>
-<li>[PAUSED] VehicleBlocker/MaxVehicles - Limits how many vehicles can be on the map at once.</li>
-<li>[PAUSED] Godmode Regions Only - Fix for the lag in regions.</li>
-<li>[PAUSED] ZaupShop - Fix Problems And Add Few Features/Fixes.</li>
-<li>[PAUSED] Reputation - Plugin for unturned. In a nutshell, it adds the command /reputation from vanilla to use with rocket directly.</li>
+<li>[<span style="color:green">WIP</span>] Jobs - Plugin for unturned. Trojaner has his <a href="https://imperialplugins.com/Products/ProductDetails?ProductID=7">own</a> version, i'm still trying to develop a public version that will most likely be worse than Trojaner's version.</li>
+<li>[<span style="color:yellow">PAUSED</span>] VehicleBlocker/MaxVehicles - Limits how many vehicles can be on the map at once.</li>
+<li>[<span style="color:yellow">PAUSED</span>] Godmode Regions Only - Fix for the lag in regions.</li>
+<li>[<span style="color:yellow">PAUSED</span>] ZaupShop - Fix Problems And Add Few Features/Fixes.</li>
+<li>[<span style="color:yellow">PAUSED</span>] Reputation - Plugin for unturned. In a nutshell, it adds the command /reputation from vanilla to use with rocket directly.</li>
 </ol>
 
 <h1>Donate</h1>
