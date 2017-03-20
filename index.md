@@ -38,7 +38,6 @@ Note: I will not accept to make new jobs until i'm done with this. I don't like 
 <li>[<span style="color:red">PAUSED</span>] Duty - Finish adding suggestion of allowing other groups to use duty in the correct format.</li>
 <li>[<span style="color:red">PAUSED</span>] ZaupShop - Fix Problems And Add Few Features/Fixes.</li>
 <li>[<span style="color:red">PAUSED</span>] Jobs - Plugin for unturned. Trojaner has his <a href="https://imperialplugins.com/Products/ProductDetails?ProductID=7">own</a> version, i'm still trying to develop a public version that will most likely be worse than Trojaner's version.</li>
-<li>[<span style="color:red">CANCELLED</span>] Colorful Broadcast - Modifies the default /broadcast command to allow it to use different colors. <span style="color:red">CANCELLED DUE TO FINDING THE SYNTAX OF /broadcast {color} {message}</span></li>
 </ol>
 
 <h1>Donate</h1>
