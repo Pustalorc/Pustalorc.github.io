@@ -36,7 +36,6 @@ Note: I will not accept to make new jobs until i'm done with this. I don't like 
 <li>[<span style="color:green">FINNISHED</span>] Command Only Regions - Edit to regions, adds the ability to switch to a different group when entering and leaving a region.</li>
 <li>[<span style="color:yellow">WIP</span>] VehicleBlocker/MaxVehicles - Limits how many vehicles can be on the map at once.</li>
 <li>[<span style="color:red">PAUSED</span>] Duty - Finish adding suggestion of allowing other groups to use duty in the correct format.</li>
-<li>[<span style="color:red">PAUSED</span>] Godmode Regions Only - Fix for the lag in regions.</li>
 <li>[<span style="color:red">PAUSED</span>] ZaupShop - Fix Problems And Add Few Features/Fixes.</li>
 <li>[<span style="color:red">PAUSED</span>] Jobs - Plugin for unturned. Trojaner has his <a href="https://imperialplugins.com/Products/ProductDetails?ProductID=7">own</a> version, i'm still trying to develop a public version that will most likely be worse than Trojaner's version.</li>
 </ol>
