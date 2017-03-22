@@ -1,6 +1,6 @@
 <h1>Public Programs/Plugins/Libraries</h1>
 
-[Unturned Server Manager](/UnturnedServerManager/) - Main and biggest program ever done by me. Currently on version 3.0.1.3. Works around the game "unturned" and allows the user to host servers with the program.
+[Unturned Server Manager](/UnturnedServerManager/) - Main and biggest program ever done by me. Currently on version 3.0.1.4. Works around the game "unturned" and allows the user to host servers with the program. - Working on 3.1 [here](https://github.com/persiafighter/UnturnedServerManager/tree/Beta-3.1), help is appreciated at any time.
 
 [Rocket Rules](/Rocket-Rules/) - Plugin for the game "unturned". Works with a few simple mathematical functions. In a nutshell, it displays rules to player on join or when they do /rules.
 
@@ -30,13 +30,12 @@
 
 [NameKicker](https://github.com/Teyhota/NameKicker) - Accepted but not merged - Added suggestions from the comments found in [rocketmod](https://dev.rocketmod.net/plugins/namekicker/), Added ability of infite banned words and fixed few description mistakes. - [View pull request](https://github.com/Teyhota/NameKicker/pull/1)
 
-<h1>Work In Progress</h1>
+[ZaupShop](https://github.com/RocketModPlugins/ZaupShop) - Waiting - Added a suggestion to display the buy back price instead of throwing error. - [View pull request](https://github.com/RocketModPlugins/ZaupShop/pull/2)
 
-Note: I will not accept to make new jobs until i'm done with this. I don't like to leave people waiting.
+<h1>Work In Progress</h1>
 
 <ol>
 <li>[<span style="color:green">FINNISHED</span>] VehicleBlocker/MaxVehicles - Limits how many vehicles can be on the map at once.</li>
-<li>[<span style="color:green">FINNISHED</span>] ZaupShop - Fix Problems And Add Few Features/Fixes.</li>
 <li>[<span style="color:yellow">WIP</span>] Jobs - Plugin for unturned. Trojaner has his <a href="https://imperialplugins.com/Products/ProductDetails?ProductID=7">own</a> version, i'm still trying to develop a public version that will most likely be worse than Trojaner's version.</li>
 </ol>
 
