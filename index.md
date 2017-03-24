@@ -22,6 +22,8 @@
 
 [<span style="color:green">Free</span>] - Command Only Regions - Edit to regions, adds the ability to switch to a different group when entering and leaving a region.
 
+[<span style="color:yellow">5€</span>] - MaxVehicles - Plugin for unturned. In a nutshell blocks players from spawning more than a maximum number of vehicles. Ie: it limits how many vehicles can exist in the map.
+
 <h1>Contributions:</h1>
 
 [Duty](https://github.com/Ev1dentFir3/Duty) - Fixed the code and re-uploaded to [rocketmod](https://dev.rocketmod.net/plugins/duty-revived/) for server owners to use again. - [View pull request](https://github.com/Ev1dentFir3/Duty/pull/3)
@@ -35,8 +37,9 @@
 <h1>Work In Progress</h1>
 
 <ol>
-<li>[<span style="color:green">FINNISHED</span>] VehicleBlocker/MaxVehicles - Limits how many vehicles can be on the map at once.</li>
 <li>[<span style="color:yellow">WIP</span>] Jobs - Plugin for unturned. Trojaner has his <a href="https://imperialplugins.com/Products/ProductDetails?ProductID=7">own</a> version, i'm still trying to develop a public version that will most likely be worse than Trojaner's version.</li>
+<li>[<span style="color:yellow">WIP</span>] FeexRanks - Edit to lose points on death</li>
+<li>[<span style="color:yellow">WIP</span>] ZaupUconomyEssentials - Edit to lose money on death in terms of a percentage.</li>
 </ol>
 
 <h1>Donate</h1>
