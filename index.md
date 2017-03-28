@@ -18,7 +18,7 @@
 
 [<span style="color:red">Ask [Ikatzuki](http://steamcommunity.com/id/Ikatzuki1/) for a copy</span>] - Reputation Loadout - Plugin for unturned. In a nutshell, it will give a loadout/kit to a player after respawn when the player has a specific reputation. Also has the ability to give a Rank to a player after a few set of kills.
 
-[<span style="color:yellow">1€</span>] - Tempban - Plugin for unturned. In a nutshell it adds the command /tempban to be able to ban temporarily a player. Currently, when using rocketmod, "/ban player/reason/time" causes/has problems and is kind of unstable.
+[<span style="color:green">Free</span>] - Tempban - Plugin for unturned. In a nutshell it adds the command /tempban to be able to ban temporarily a player. Currently, when using rocketmod, "/ban player/reason/time" causes/has problems and is kind of unstable.
 
 [<span style="color:green">Free</span>] - Command Only Regions - Edit to regions, adds the ability to switch to a different group when entering and leaving a region.
 
@@ -37,9 +37,8 @@
 <h1>Work In Progress</h1>
 
 <ol>
-<li>[<span style="color:yellow">WIP</span>] Jobs - Plugin for unturned. Trojaner has his <a href="https://imperialplugins.com/Products/ProductDetails?ProductID=7">own</a> version, i'm still trying to develop a public version that will most likely be worse than Trojaner's version.</li>
-<li>[<span style="color:yellow">WIP</span>] FeexRanks - Edit to lose points on death</li>
-<li>[<span style="color:yellow">WIP</span>] ZaupUconomyEssentials - Edit to lose money on death in terms of a percentage.</li>
+<li>[<span style="color:yellow">WIP</span>] USM 3.1 - Back to working on 3.1 for USM. I've received a bit of feedback and i'm ready to implement it into the upcoming 3.1 version</li>
+<li>[<span style="color:yellow">WIP</span>] AutoUpdate - A plugin for unturned. In a nutshell, it will automatically shutdown and update your unturned server, and all done automatically with the plugin.</li>
 </ol>
 
 <h1>Donate</h1>
