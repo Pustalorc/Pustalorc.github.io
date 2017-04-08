@@ -50,4 +50,4 @@ Steam - [Inventory](https://steamcommunity.com/tradeoffer/new/?partner=171975117
 
 Bitcoin - 1ELHJnL8x4EqrpFKL5MtKz3CgmAdz7RvQQ
 
-Paypal - [Link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BHLUBET4ZXBC2) [Paypal.me](https://www.paypal.me/persiafighter)
+Paypal - [Donation Style](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BHLUBET4ZXBC2) - [Paypal.me Style](https://www.paypal.me/persiafighter)
