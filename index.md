@@ -24,6 +24,10 @@
 
 [<span style="color:yellow">5€</span>] - MaxVehicles - Plugin for unturned. In a nutshell blocks players from spawning more than a maximum number of vehicles. Ie: it limits how many vehicles can exist in the map.
 
+[<span style="color:yellow">20€</span>] - AutoUpdate - Plugin for unturned. In a nutshell it will automatically shutdown the server with a custom delay, warn everyone in the server that there's an update and then update the entire server.
+
+Note: To buy the plugins or get the plugins, contact me on my e-mail persiafighter@gmail.com or send me a message on [steam](https://steamcommunity.com/id/persiafighter)
+
 <h1>Contributions:</h1>
 
 [Duty](https://github.com/Ev1dentFir3/Duty) - Fixed the code and re-uploaded to [rocketmod](https://dev.rocketmod.net/plugins/duty-revived/) for server owners to use again. - [View pull request](https://github.com/Ev1dentFir3/Duty/pull/3)
@@ -38,7 +42,6 @@
 
 <ol>
 <li>[<span style="color:yellow">WIP</span>] USM 3.1 - Back to working on 3.1 for USM. I've received a bit of feedback and i'm ready to implement it into the upcoming 3.1 version</li>
-<li>[<span style="color:yellow">WIP</span>] AutoUpdate - A plugin for unturned. In a nutshell, it will automatically shutdown and update your unturned server, and all done automatically with the plugin.</li>
 </ol>
 
 <h1>Donate</h1>
@@ -46,3 +49,5 @@
 Steam - [Inventory](https://steamcommunity.com/tradeoffer/new/?partner=171975117&token=nPB07kkc)
 
 Bitcoin - 1ELHJnL8x4EqrpFKL5MtKz3CgmAdz7RvQQ
+
+Paypal - [Link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BHLUBET4ZXBC2) [Paypal.me](https://www.paypal.me/persiafighter)
