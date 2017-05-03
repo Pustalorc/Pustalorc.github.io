@@ -26,22 +26,22 @@
 
 [<span style="color:yellow">20€</span>] - AutoUpdate - Plugin for unturned. In a nutshell it will automatically shutdown the server with a custom delay, warn everyone in the server that there's an update and then update the entire server.
 
+[<span style="color:yellow">5€</span>] - Kits Tool - Plugin for unturned. In a nutshell it acts as an extension for the kits plugin so that you can from ingame create and edit kits.
+
+[<span style="color:yellow">5€</span>] - Salary - Plugin for unturned. In a nutshell, it acts as the salary option in zaupuconomyessentials, except it doesn't give uconomy cash. It instead gives ingame notes as the payed cash.
+
 Note: To buy the plugins or get the plugins, contact me on my e-mail persiafighter@gmail.com or send me a message on [steam](https://steamcommunity.com/id/persiafighter)
-
-<h1>Contributions:</h1>
-
-[Duty](https://github.com/Ev1dentFir3/Duty) - Fixed the code and re-uploaded to [rocketmod](https://dev.rocketmod.net/plugins/duty-revived/) for server owners to use again. - [View pull request](https://github.com/Ev1dentFir3/Duty/pull/3)
-
-[FeexRanks](https://github.com/Freenex1911/FeexRanks) - Added a common suggestion: after leveling up, getting a permission rank. - [View pull request #1](https://github.com/Freenex1911/FeexRanks/pull/2), [View pull request #2](https://github.com/Freenex1911/FeexRanks/pull/5), where a bug with this addition was found.
-
-[NameKicker](https://github.com/Teyhota/NameKicker) - Accepted but not merged - Added suggestions from the comments found in [rocketmod](https://dev.rocketmod.net/plugins/namekicker/), Added ability of infite banned words and fixed few description mistakes. - [View pull request](https://github.com/Teyhota/NameKicker/pull/1)
-
-[ZaupShop](https://github.com/RocketModPlugins/ZaupShop) - Waiting - Added a suggestion to display the buy back price instead of throwing error. - [View pull request](https://github.com/RocketModPlugins/ZaupShop/pull/2)
 
 <h1>Work In Progress</h1>
 
 <ol>
-<li>[<span style="color:yellow">WIP</span>] USM 3.1 - Back to working on 3.1 for USM. I've received a bit of feedback and i'm ready to implement it into the upcoming 3.1 version</li>
+<li>[<span style="color:yellow">WIP</span>] USM 3.1 - Back to working on 3.1 for USM. I've received a bit of feedback and i'm ready to implement it into the upcoming 3.1 version.</li>
+<li>[<span style="color:yellow">WIP</span>] Jobs Plugin - Adding a feature to reject applications + kick members. Also cleaning up code and fixing a bug when rocket reload is executed and the onplayerdisconnect listener is not unloaded.</li>
+<li>[<span style="color:green">TESTING</span>] Salary - Update to the salary plugin, allowing for the user to select which items will be used to pay and their value.</li>
+<li>[<span style="color:green">TESTING</span>] Command Cooldown - A plugin that will prevent players from spamming commands.</li>
+<li>[<span style="color:green">TESTING</span>] Auto Update - Update to the plugin to avoid errors in console + player kicking. Also testing License verification.</li>
+<li>[<span style="color:green">TESTING</span>] Duty - Update to fix a few errors + a bit of badly made code. Also adds a feature to select/create duty groups.</li>
+<li>[<span style="color:green">TESTING</span>] Rocket Group Anti-FF - A plugin that will prevent players from damaging other players in the same permission group as them.</li>
 </ol>
 
 <h1>Donate</h1>
