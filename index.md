@@ -18,17 +18,21 @@
 
 [<span style="color:red">Ask [Ikatzuki](http://steamcommunity.com/id/Ikatzuki1/) for a copy</span>] - Reputation Loadout - Plugin for unturned. In a nutshell, it will give a loadout/kit to a player after respawn when the player has a specific reputation. Also has the ability to give a Rank to a player after a few set of kills.
 
-[<span style="color:green">Free</span>] - Tempban - Plugin for unturned. In a nutshell it adds the command /tempban to be able to ban temporarily a player. Currently, when using rocketmod, "/ban player/reason/time" causes/has problems and is kind of unstable.
+[<span style="color:green">Free</span>] - Tempban - Plugin for unturned. In a nutshell it adds the command /tempban to be able to ban temporarily a player. Currently, when using rocketmod, "/ban player/reason/time" causes/has problems and is kind of unstable (since the actual syntax is supposed to be "/ban player reason time").
 
 [<span style="color:green">Free</span>] - Command Only Regions - Edit to regions, adds the ability to switch to a different group when entering and leaving a region.
 
-[<span style="color:yellow">5€</span>] - MaxVehicles - Plugin for unturned. In a nutshell blocks players from spawning more than a maximum number of vehicles. Ie: it limits how many vehicles can exist in the map.
+[<span style="color:yellow">5$</span>] - MaxVehicles - Plugin for unturned. In a nutshell blocks players from spawning more than a maximum number of vehicles. Ie: it limits how many vehicles can exist in the map.
 
-[<span style="color:yellow">20€</span>] - AutoUpdate - Plugin for unturned. In a nutshell it will automatically shutdown the server with a custom delay, warn everyone in the server that there's an update and then update the entire server.
+[<span style="color:yellow">20$</span>] - AutoUpdate - Plugin for unturned. In a nutshell it will automatically shutdown the server with a custom delay, warn everyone in the server that there's an update and then update the entire server. This will not work in 
 
-[<span style="color:yellow">5€</span>] - Kits Tool - Plugin for unturned. In a nutshell it acts as an extension for the kits plugin so that you can from ingame create and edit kits.
+[<span style="color:yellow">5$</span>] - Kits Tool - Plugin for unturned. In a nutshell it acts as an extension for the kits plugin so that you can from ingame create and edit kits.
 
-[<span style="color:yellow">5€</span>] - Salary - Plugin for unturned. In a nutshell, it acts as the salary option in zaupuconomyessentials, except it doesn't give uconomy cash. It instead gives ingame notes as the payed cash.
+[<span style="color:yellow">5$</span>] - Salary - Plugin for unturned. In a nutshell, it acts as the salary option in zaupuconomyessentials, except it doesn't give uconomy cash. It instead gives ingame notes as the payed cash.
+
+[<span style="color:yellow">5$</span>] - Advanced Logger - In a nutshell, it will log more stuff into the console for admins to know what's going on.
+
+[<span style="color:yellow">10$</span>] - Advanced Roleplay Essentials - In a nutshell right now it includes a fully custom functional bounty feature + rewards for custom events.
 
 Note: To buy the plugins or get the plugins, contact me on my e-mail persiafighter@gmail.com or send me a message on [steam](https://steamcommunity.com/id/persiafighter)
 
@@ -37,9 +41,10 @@ Note: To buy the plugins or get the plugins, contact me on my e-mail persiafight
 <ol>
 <li>[<span style="color:yellow">WIP</span>] USM 3.1 - Back to working on 3.1 for USM. I've received a bit of feedback and i'm ready to implement it into the upcoming 3.1 version.</li>
 <li>[<span style="color:yellow">WIP</span>] Jobs Plugin - Adding a feature to reject applications + kick members. Also cleaning up code and fixing a bug when rocket reload is executed and the onplayerdisconnect listener is not unloaded.</li>
-<li>[<span style="color:green">TESTING</span>] Salary - Update to the salary plugin, allowing for the user to select which items will be used to pay and their value.</li>
+<li>[<span style="color:yellow">WIP</span>] Car License - Pretty much a rip from Light's vehicle feature. Fixed and non-mysql based.</li>
+<li>[<span style="color:yellow">WIP</span>] Player Downed - Pretty much downs a player instead of killing them.</li>
 <li>[<span style="color:green">TESTING</span>] Command Cooldown - A plugin that will prevent players from spamming commands.</li>
-<li>[<span style="color:green">TESTING</span>] Auto Update - Update to the plugin to avoid errors in console + player kicking. Also testing License verification.</li>
+<li>[<span style="color:green">TESTING</span>] Auto Update - Test that the latest license verification dll works.</li>
 <li>[<span style="color:green">TESTING</span>] Duty - Update to fix a few errors + a bit of badly made code. Also adds a feature to select/create duty groups.</li>
 <li>[<span style="color:green">TESTING</span>] Rocket Group Anti-FF - A plugin that will prevent players from damaging other players in the same permission group as them.</li>
 </ol>
