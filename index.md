@@ -58,25 +58,25 @@
 
 [<span style="color:green">Free</span>] - Tempban - Plugin for unturned. In a nutshell it adds the command /tempban to be able to ban temporarily a player. Currently, when using rocketmod, "/ban player/reason/time" causes/has problems and is kind of unstable (since the actual syntax is supposed to be "/ban player reason time").
 
-[<span style="color:yellow">5$</span>] - Advanced Logger - In a nutshell, it will log more stuff into the console for admins to know what's going on.
+[<span style="color:darkgreen">5$</span>] - Advanced Logger - In a nutshell, it will log more stuff into the console for admins to know what's going on.
 
-[<span style="color:yellow">5$</span>] - Command Cooldown - External support for adding a cooldown to commands... that's literally it.
+[<span style="color:darkgreen">5$</span>] - Command Cooldown - External support for adding a cooldown to commands... that's literally it.
 
-[<span style="color:yellow">5$</span>] - Kits Tool - Plugin for unturned. In a nutshell it acts as an extension for the kits plugin so that you can from ingame create and edit kits.
+[<span style="color:darkgreen">5$</span>] - Kits Tool - Plugin for unturned. In a nutshell it acts as an extension for the kits plugin so that you can from ingame create and edit kits.
 
-[<span style="color:yellow">5$</span>] - MaxVehicles - Plugin for unturned. In a nutshell blocks players from spawning more than a maximum number of vehicles. Ie: it limits how many vehicles can exist in the map.
+[<span style="color:darkgreen">5$</span>] - MaxVehicles - Plugin for unturned. In a nutshell blocks players from spawning more than a maximum number of vehicles. Ie: it limits how many vehicles can exist in the map.
 
-[<span style="color:yellow">5$</span>] - Purge - Can schedule purges to happen, but mainly it allows for admins/console to start a purge (which enables PvP and then disables it later).
+[<span style="color:darkgreen">5$</span>] - Purge - Can schedule purges to happen, but mainly it allows for admins/console to start a purge (which enables PvP and then disables it later).
 
-[<span style="color:yellow">5$</span>] - Salary - Plugin for unturned. In a nutshell, it acts as the salary option in zaupuconomyessentials, except it doesn't give uconomy cash. It instead gives ingame notes as the payed cash.
+[<span style="color:darkgreen">5$</span>] - Salary - Plugin for unturned. In a nutshell, it acts as the salary option in zaupuconomyessentials, except it doesn't give uconomy cash. It instead gives ingame notes as the payed cash.
 
-[<span style="color:yellow">10$</span>] - Advanced Roleplay Essentials - In a nutshell right now it includes a fully custom functional bounty feature + rewards for custom events.
+[<span style="color:darkgreen">10$</span>] - Advanced Roleplay Essentials - In a nutshell right now it includes a fully custom functional bounty feature + rewards for custom events.
 
-[<span style="color:yellow">15$</span>] - [Advanced Decay](https://imperialplugins.com/Products/ProductDetails?ProductID=102) - Better decay system than the one unturned offers.
+[<span style="color:darkgreen">15$</span>] - [Advanced Decay](https://imperialplugins.com/Products/ProductDetails?ProductID=102) - Better decay system than the one unturned offers.
 
-[<span style="color:yellow">20$</span>] - [Advanced Permissions](https://imperialplugins.com/Products/ProductDetails?ProductID=82) - Plugin that improves the permissions on rocketmod. It adds a lot more options and allows for MySQL databases and others.
+[<span style="color:darkgreen">20$</span>] - [Advanced Permissions](https://imperialplugins.com/Products/ProductDetails?ProductID=82) - Plugin that improves the permissions on rocketmod. It adds a lot more options and allows for MySQL databases and others.
 
-[<span style="color:yellow">20$</span>] - AutoUpdate - Plugin for unturned. In a nutshell it will automatically shutdown the server with a custom delay, warn everyone in the server that there's an update and then update the entire server. This will not work in shared servers/shared hosting due to the policies of this hosting services.
+[<span style="color:darkgreen">20$</span>] - AutoUpdate - Plugin for unturned. In a nutshell it will automatically shutdown the server with a custom delay, warn everyone in the server that there's an update and then update the entire server. This will not work in shared servers/shared hosting due to the policies of this hosting services.
 
 [<span style="color:red">PRIVATE - RESERVED TO LABADOR</span>] - Accounts - Plugin that allows users to create an account and be able to execute commands after logging in. Goes in a good combination with a front-end system.
 
