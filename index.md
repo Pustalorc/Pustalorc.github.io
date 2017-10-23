@@ -1,6 +1,6 @@
 <h1>Public Programs/Plugins/Libraries</h1>
 
-[Unturned Server Manager](/UnturnedServerManager/) - Main and biggest program ever done by me. Currently on version 3.0.1.4. Works around the game "unturned" and allows the user to host servers with the program. - Working on 3.1 [here](https://github.com/persiafighter/UnturnedServerManager/tree/Beta-3.1), help is appreciated at any time.
+[Unturned Server Manager](/UnturnedServerManager/) - Main and biggest program ever done by me. Currently on version 3.0.1.4. Works around the game "unturned" and allows the user to host servers with the program.
 
 [Rocket Rules](/Rocket-Rules/) - Plugin for the game "unturned". Works with a few simple mathematical functions. In a nutshell, it displays rules to player on join or when they do /rules.
 
@@ -13,6 +13,26 @@
 [Unturned Downloader](https://github.com/persiafighter/unturned-downloader) - A standalone module that Unturned Server Manager uses.
 
 [RPG - (OLD Page)](http://rpg-v2.boards.net/) -- [RPG - (Github Page)](https://github.com/persiafighter/RPG) - A very old game that I programmed in VBS. It was never finnished, but it worked more or less like a game, including save states, 1 single exit point (since I didn't know where else to add them), a "story", and a flow of direction. Project is abandoned.
+
+[Support Bot](https://github.com/persiafighter/Support-Bot) - Interactive discord bot that tries it's best to support people. Uses designated channels 'n shiz.
+
+[File Converter](https://github.com/persiafighter/File-Converter) - Simple file converting application that uses the API of this site: zamzar.com(http://zamzar.com) (Not sponsored by them e_e)
+
+[EXTRATHICC](https://github.com/persiafighter/EXTRATHICC) - IRC Remote control virus that got detected and that I gave up developing. Source code is only available for those with access.
+
+[Rocket Config Editor](https://github.com/persiafighter/RocketConfigEditor) - Editor for rocket's permissions and commands.config.xml. Still have to fix a few bugs but it primarily works.
+
+[Rocket Jobs](https://github.com/persiafighter/Rocket-Jobs) - A plugin that imitates the jobs plugin from imperialplugins. It's a bit simpler though and still more or less badly coded.
+
+[Unturned Server Tool](https://github.com/persiafighter/Unturned-Server-Tool) - Command line tool to update an unturned server & start it.
+
+[Rocket Tools](https://github.com/persiafighter/Rocket-Tools) - Plugin that uses the permissions API from rocket to modify permissions from ingame without the need to open the xml file.
+
+[MySQL C# Wrapper](https://github.com/persiafighter/C--MySqlWrapper) - An in-progress library that acts as a wrapper to MySQL, might cancel due to Linq to MySql posibility.
+
+[Rocket Plugin Template](https://github.com/persiafighter/Plugin-Template) - A simple template with a lot of explanations for rocket plugins.
+
+[RobnRaid](https://github.com/persiafighter/RobnRaid) - Original from bullet tide, later removed and transfered to me. His new edition is the advanced edition. If you want to check it out, click [here](https://github.com/BulletTide/AdvancedRobnRaid).
 
 <h1>Custom Or Private Programs/Plugins</h1>
 
@@ -34,19 +54,25 @@
 
 [<span style="color:yellow">10$</span>] - Advanced Roleplay Essentials - In a nutshell right now it includes a fully custom functional bounty feature + rewards for custom events.
 
-Note: To buy the plugins or get the plugins, contact me on my e-mail persiafighter@gmail.com or send me a message on [steam](https://steamcommunity.com/id/persiafighter)
+[<span style="color:yellow">20$</span>] - [Advanced Permissions](https://imperialplugins.com/Products/ProductDetails?ProductID=82) - Plugin that improves the permissions on rocketmod. It adds a lot more options and allows for MySQL databases and others.
+
+[<span style="color:yellow">15$</span>] - [Advanced Decay](https://imperialplugins.com/Products/ProductDetails?ProductID=102) - Better decay system than the one unturned offers.
+
+[<span style="color:red">PRIVATE - RESERVED TO LAHQIE</span>] - Lahqie Core - Core plugin for Lahqie's servers, Massacre and Intellect.
+
+[<span style="color:red">PRIVATE - RESERVED TO LABADOR</span>] - Accounts - Plugin that allows users to create an account and be able to execute commands after logging in. Goes in a good combination with a front-end system.
+
+[<span style="color:red">PRIVATE - RESERVED TO FRIGHTEN</span] - AFK - Ultra sub mega simple afk plugin.
+
+Note: To buy the plugins or get the plugins (if they do not have a link), contact me on my e-mail persiafighterplugins@gmail.com or send me a message on [steam](https://steamcommunity.com/id/persiafighter)
 
 <h1>Work In Progress</h1>
 
 <ol>
-<li>[<span style="color:yellow">WIP</span>] USM 3.1 - Back to working on 3.1 for USM. I've received a bit of feedback and i'm ready to implement it into the upcoming 3.1 version.</li>
-<li>[<span style="color:yellow">WIP</span>] Jobs Plugin - Adding a feature to reject applications + kick members. Also cleaning up code and fixing a bug when rocket reload is executed and the onplayerdisconnect listener is not unloaded.</li>
-<li>[<span style="color:yellow">WIP</span>] Car License - Pretty much a rip from Light's vehicle feature. Fixed and non-mysql based.</li>
-<li>[<span style="color:yellow">WIP</span>] Player Downed - Pretty much downs a player instead of killing them.</li>
-<li>[<span style="color:green">TESTING</span>] Command Cooldown - A plugin that will prevent players from spamming commands.</li>
-<li>[<span style="color:green">TESTING</span>] Auto Update - Test that the latest license verification dll works.</li>
-<li>[<span style="color:green">TESTING</span>] Duty - Update to fix a few errors + a bit of badly made code. Also adds a feature to select/create duty groups.</li>
-<li>[<span style="color:green">TESTING</span>] Rocket Group Anti-FF - A plugin that will prevent players from damaging other players in the same permission group as them.</li>
+  <li>[<span style="color:green">TESTING</span>] Adavanced Decay</li>
+  <li>[<span style="color:yellow">WIP</span>] Lahqie Core</li>
+  <li>[<span style="color:red">TODO</span>] Lahqie Support</li>
+  <li>[<span style="color:red">TODO</span>] Lahqie Events</li>
 </ol>
 
 <h1>Donate</h1>
@@ -54,5 +80,7 @@ Note: To buy the plugins or get the plugins, contact me on my e-mail persiafight
 Steam - [Inventory](https://steamcommunity.com/tradeoffer/new/?partner=171975117&token=nPB07kkc)
 
 Bitcoin - 1ELHJnL8x4EqrpFKL5MtKz3CgmAdz7RvQQ
+
+Bitcoin - 1Cf7P3JZqpj3G4sefaJcniffgo6Ehw264b
 
 Paypal - [Donation Style](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BHLUBET4ZXBC2) - [Paypal.me Style](https://www.paypal.me/persiafighter)
