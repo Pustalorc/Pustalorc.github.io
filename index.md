@@ -62,7 +62,7 @@
 
 [<span style="color:red">PRIVATE - RESERVED TO LABADOR</span>] - Accounts - Plugin that allows users to create an account and be able to execute commands after logging in. Goes in a good combination with a front-end system.
 
-[<span style="color:red">PRIVATE - RESERVED TO FRIGHTEN</span] - AFK - Ultra sub mega simple afk plugin.
+[<span style="color:red">PRIVATE - RESERVED TO FRIGHTEN</span>] - AFK - Ultra sub mega simple afk plugin.
 
 Note: To buy the plugins or get the plugins (if they do not have a link), contact me on my e-mail persiafighterplugins@gmail.com or send me a message on [steam](https://steamcommunity.com/id/persiafighter)
 
