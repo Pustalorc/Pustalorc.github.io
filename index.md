@@ -11,7 +11,7 @@
 
 <ol>
   <li>[<span style="color:green">Unturned Server Organiser (USO)</span>] - I was invited by discounter to join the project and I accepted.</li>
-  <li>[<span style="color:red">RPG Game</span>] - The old abandonned RPG game. It's marked as red as i'll work on it in a future moment and it's on pause at the moment. It's changing engine entirely and i'll hopefully move to a custom 2D or 3D engine in C#.
+  <li>[<span style="color:red">RPG Game</span>] - The old abandonned RPG game. It's marked as red as i'll work on it in a future moment and it's on pause at the moment. It's changing engine entirely and i'll hopefully move to a custom 2D or 3D engine in C#.</li>
 </ol>
 
 <h1>Public Programs/Plugins/Libraries</h1>
