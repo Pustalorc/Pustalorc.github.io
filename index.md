@@ -1,8 +1,9 @@
 <h1>Work In Progress</h1>
 
 <ol>
+  <li>[<span style="color:green">TESTING</span>] Quizes</li>
   <li>[<span style="color:green">TESTING</span>] Adavanced Decay</li>
-  <li>[<span style="color:yellow">WIP</span>] Lahqie Core</li>
+  <li>[<span style="color:darkgreen">WIP</span>] Lahqie Core</li>
   <li>[<span style="color:red">TODO</span>] Lahqie Support</li>
   <li>[<span style="color:red">TODO</span>] Lahqie Events</li>
 </ol>
@@ -10,19 +11,31 @@
 <h1>Ongoing Big Projects</h1>
 
 <ol>
-  <li>[<span style="color:green">Unturned Server Organiser (USO)</span>] - I was invited by discounter to join the project and I accepted.</li>
+  <li>[<span style="color:green">Unturned Server Organiser (USO)</span>](https://unturned-server-organiser.com/) - I was invited by discounter to join the project and I accepted.</li>
   <li>[<span style="color:red">RPG Game</span>] - The old abandonned RPG game. It's marked as red as i'll work on it in a future moment and it's on pause at the moment. It's changing engine entirely and i'll hopefully move to a custom 2D or 3D engine in C#.</li>
 </ol>
 
 <h1>Public Programs/Plugins/Libraries</h1>
 
+[Admin Override](https://github.com/persiafighter/admin-override) - Overrides the /admin command from rocketmod due to a "security" issue which doesn't really happen.
+
+[Anti-AFK](https://github.com/persiafighter/anti-afk) - Simple and mediocrely coded anti-afk plugin.
+
+[Decryptor](https://github.com/persiafighter/d3crypt0r) - Program that will "decrypt" a message encrypted with the Encryptor program by bruteforcing the characters to get the values (due to this bruteforce, some keys & messages might have more than 1 result).
+
+[Dictionary Creator](https://github.com/persiafighter/DictionaryCreator) - Program that creates "password dictionaries", currently inneficient when it comes to resource usage.
+
 [Duty](https://github.com/Ev1dentFir3/Duty) - Plugin for unturned. In a nutshell, it gives superadmin powers to the player that does /duty. Disclaimer: I did NOT develop this one, only fixed up the code and re-uploaded it to rocketmod.
+
+[Encryptor](https://github.com/persiafighter/3ncrypt0r) - Program that encrypts a message using a defined dictionary of 189 characters with the affine cipher. The "keys" are generated randomly in a range of 0 to 188.
 
 [EXTRATHICC](https://github.com/persiafighter/EXTRATHICC) - IRC Remote control virus that got detected and that I gave up developing. Source code is only available for those with access.
 
 [Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) - Very simple Gambling type game. Uses a cryptography method for the "randomness".
 
 [File Converter](https://github.com/persiafighter/File-Converter) - Simple file converting application that uses the API of this site: zamzar.com(http://zamzar.com) (Not sponsored by them e_e)
+
+[Hide Config](https://github.com/persiafighter/Hide-Config) - Hides the entire modified config for an unturned server.
 
 [MySQL C# Wrapper](https://github.com/persiafighter/C--MySqlWrapper) - An in-progress library that acts as a wrapper to MySQL, might cancel due to Linq to MySql posibility.
 
@@ -60,7 +73,11 @@
 
 [<span style="color:darkgreen">5$</span>] - Advanced Logger - In a nutshell, it will log more stuff into the console for admins to know what's going on.
 
+[<span style="color:darkgreen">5$</span>] - Chat Color Changer - Allows for dynamic chat color changing without the need of changing permission groups (Doesn't limit which colors they can use).
+
 [<span style="color:darkgreen">5$</span>] - Command Cooldown - External support for adding a cooldown to commands... that's literally it.
+
+[<span style="color:darkgreen">5$</span>] - Custom Loot Points - Allows players/admins to set customized spawn points for loot wherever they want.
 
 [<span style="color:darkgreen">5$</span>] - Kits Tool - Plugin for unturned. In a nutshell it acts as an extension for the kits plugin so that you can from ingame create and edit kits.
 
@@ -72,11 +89,17 @@
 
 [<span style="color:darkgreen">10$</span>] - Advanced Roleplay Essentials - In a nutshell right now it includes a fully custom functional bounty feature + rewards for custom events.
 
+[<span style="color:darkgreen">10$</span>] - Play Tracker - Tracks the ammount of playtime a player has and allows for "coupon" usage by the player to receive rewards and stuff.
+
+[<span style="color:darkgreen">10$</span>] - Vehicle Licenses - Gives licenses to drive certain vehicles and stuff.
+
 [<span style="color:darkgreen">15$</span>] - [Advanced Decay](https://imperialplugins.com/Products/ProductDetails?ProductID=102) - Better decay system than the one unturned offers.
 
 [<span style="color:darkgreen">20$</span>] - [Advanced Permissions](https://imperialplugins.com/Products/ProductDetails?ProductID=82) - Plugin that improves the permissions on rocketmod. It adds a lot more options and allows for MySQL databases and others.
 
 [<span style="color:darkgreen">20$</span>] - AutoUpdate - Plugin for unturned. In a nutshell it will automatically shutdown the server with a custom delay, warn everyone in the server that there's an update and then update the entire server. This will not work in shared servers/shared hosting due to the policies of this hosting services.
+
+[<span style="color:darkgreen">20$</span>] - Quizes - Plugin that will tell the player a question with defined answers. If they answer wrong, the next time they take the quiz it'll cost them twice (does not stack).
 
 [<span style="color:red">PRIVATE - RESERVED TO LABADOR</span>] - Accounts - Plugin that allows users to create an account and be able to execute commands after logging in. Goes in a good combination with a front-end system.
 
