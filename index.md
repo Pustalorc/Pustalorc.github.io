@@ -1,18 +1,17 @@
 <h1>Work In Progress</h1>
 
 <ol>
-  <li>[<span style="color:green">TESTING</span>] Quizes</li>
-  <li>[<span style="color:green">TESTING</span>] Adavanced Decay</li>
   <li>[<span style="color:darkgreen">WIP</span>] Lahqie Core</li>
   <li>[<span style="color:red">TODO</span>] Lahqie Support</li>
   <li>[<span style="color:red">TODO</span>] Lahqie Events</li>
 </ol>
 
-<h1>Ongoing Big Projects</h1>
+<h1>Big Projects</h1>
 
 <ol>
   <li>[<a href="https://unturned-server-organiser.com/"><span style="color:green">Unturned Server Organiser (USO)</span></a>] - I was invited by discounter to join the project and I accepted.</li>
   <li>[<span style="color:red">RPG Game</span>] - The old abandonned RPG game. It's marked as red as i'll work on it in a future moment and it's on pause at the moment. It's changing engine entirely and i'll hopefully move to a custom 2D or 3D engine in C#.</li>
+  <li>[<span style="color:red">ATORT Network</span>] - A custom p2p network. Might be called EXTRATHICC network in the future, though I like the name ATORT more than EXTRATHICC. Will possibly create this as a university project, or maybe not, who knows.</li>
 </ol>
 
 <h1>Public Programs/Plugins/Libraries</h1>
@@ -101,7 +100,7 @@
 
 [<span style="color:darkgreen">20$</span>] - Quizes - Plugin that will tell the player a question with defined answers. If they answer wrong, the next time they take the quiz it'll cost them twice (does not stack).
 
-[<span style="color:red">PRIVATE - RESERVED TO LABADOR</span>] - Accounts - Plugin that allows users to create an account and be able to execute commands after logging in. Goes in a good combination with a front-end system.
+[<span style="color:red">PRIVATE - RESERVED TO LABADOR</span>] - Accounts - Plugin that allows users to create an account and be able to execute commands after logging in. Goes in a good combination with a website.
 
 [<span style="color:red">PRIVATE - RESERVED TO FRIGHTEN</span>] - AFK - Ultra sub mega simple afk plugin.
 
