@@ -2,7 +2,7 @@
 
 <ol>
   <li>[<a href="https://unturned-server-organiser.com/"><span style="color:green">Unturned Server Organiser (USO)</span></a>] (NOT OWNER OF PROJECT) - Program to make organising/using your unturned server easier.</li>
-  <li>[<a href="http://esinko.net/Dave/Dave.html"><span style="color:green">D.A.V.E.</Span>] (NOT OWNER OF PROJECT) - Dave is a Discord Bot made to help you around your community and make it easier to manage.</li>
+  <li>[<a href="http://esinko.net/Dave/Dave.html"><span style="color:green">D.A.V.E.</span></a>] (NOT OWNER OF PROJECT) - Dave is a Discord Bot made to help you around your community and make it easier to manage.</li>
   <li>[<span style="color:green">ATORT Network</span>] - A custom p2p network. Currently in progress, slowly of course.</li>
 </ol>
 
