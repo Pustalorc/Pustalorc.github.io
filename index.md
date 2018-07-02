@@ -1,10 +1,9 @@
 <h1>Big Projects</h1>
 
 <ol>
-  <li>[<a href="https://unturned-server-organiser.com/"><span style="color:green">Unturned Server Organiser (USO)</span></a>] - I was invited by discounter to join the project and I accepted. Currently maintaining the project (Fixing bugs, changing minimalistic stuff)</li>
-  <li>[<span style="color:red">RPG Game</span>] - The old abandonned RPG game. It's marked as red as i'll work on it in a future moment and it's on pause at the moment. It's changing engine entirely and i'll hopefully move to a custom 2D or 3D engine in C#.</li>
-  <li>[<span style="color:red">ATORT Network</span>] - A custom p2p network. Might be called EXTRATHICC network in the future, though I like the name ATORT more than EXTRATHICC. Will possibly create this as a university project, or maybe not, who knows.</li>
-  <li>[<span style="color:red">Hacking Game</Span>] - A custom idea me and someone else are planning out. The current name is not final and is just a placeholder. As the name states, it will be a hacking game, so prepare to lose your data and hack others for their data!</li>
+  <li>[<a href="https://unturned-server-organiser.com/"><span style="color:green">Unturned Server Organiser (USO)</span></a>] (NOT OWNER OF PROJECT) - Program to make organising/using your unturned server easier.</li>
+  <li>[<a href="http://esinko.net/Dave/Dave.html"><span style="color:green">D.A.V.E.</Span>] (NOT OWNER OF PROJECT) - Dave is a Discord Bot made to help you around your community and make it easier to manage.</li>
+  <li>[<span style="color:green">ATORT Network</span>] - A custom p2p network. Currently in progress, slowly of course.</li>
 </ol>
 
 <h1>Public Programs/Plugins/Libraries</h1>
