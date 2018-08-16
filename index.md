@@ -54,38 +54,38 @@
 
 <h1>Custom Rocketmod/Unturned Plugins</h1>
 
-[<span style="color:green">Free</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/Afk">AFK</a> - Ultra sub mega simple afk plugin.
+[<span style="color:green">Free</span>] - [AFK](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/Afk) - Ultra sub mega simple afk plugin.
 
-[<span style="color:darkgreen">5$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/ChatColor">Chat Color Changer</a> - Allows for dynamic chat color changing without the need of changing permission groups (Doesn't limit which colors they can use).
+[<span style="color:darkgreen">5$</span>] - [Chat Color Changer](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/ChatColor) - Allows for dynamic chat color changing without the need of changing permission groups (Doesn't limit which colors they can use).
 
-[<span style="color:darkgreen">5$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/CommandCooldown">Command Cooldown</a> - External support for adding a cooldown to commands.
+[<span style="color:darkgreen">5$</span>] - [Command Cooldown](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/CommandCooldown) - External support for adding a cooldown to commands.
 
-[<span style="color:darkgreen">5$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/CustomLootPoints">Custom Loot Points</a> - Allows players/admins to set customized spawn points for loot wherever they want.
+[<span style="color:darkgreen">5$</span>] - [Custom Loot Points](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/CustomLootPoints) - Allows players/admins to set customized spawn points for loot wherever they want.
 
-[<span style="color:darkgreen">5$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/AntiCarExplosions">Anti-Car Explosions</a> - Prevents all vehicles in the server from blowing up.
+[<span style="color:darkgreen">5$</span>] - [Anti-Car Explosions](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/AntiCarExplosions) - Prevents all vehicles in the server from blowing up.
 
-[<span style="color:darkgreen">10$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/PlayTracker">Play Tracker</a> - Tracks the ammount of playtime a player has and allows for "coupon" usage by the player to receive rewards.
+[<span style="color:darkgreen">10$</span>] - [Play Tracker](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/PlayTracker) - Tracks the ammount of playtime a player has and allows for "coupon" usage by the player to receive rewards.
 
-[<span style="color:darkgreen">10$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/VehicleLicenses">Vehicle Licenses</a> - Gives licenses to drive certain vehicles. They are stored virtually.
+[<span style="color:darkgreen">10$</span>] - [Vehicle Licenses](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/VehicleLicenses) - Gives licenses to drive certain vehicles. They are stored virtually.
 
-[<span style="color:darkgreen">10$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/UnturnedToDiscordWebhook">U2D Webhook</a> - Unturned to discord webhook plugin. Utilizes discord's webhook API to send messages of things ocurring in the server. More than 1 webhook can be set-up for different things.
+[<span style="color:darkgreen">10$</span>] - [U2D Webhook](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/UnturnedToDiscordWebhook) - Unturned to discord webhook plugin. Utilizes discord's webhook API to send messages of things ocurring in the server. More than 1 webhook can be set-up for different things.
 
-[<span style="color:darkgreen">15$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/KillReporter">Kill Reporter</a> - Creates custom reports on player kills and posts on github through a webhook.
+[<span style="color:darkgreen">15$</span>] - [Kill Reporter](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/KillReporter) - Creates custom reports on player kills and posts on github through a webhook.
 
-[<span style="color:darkgreen">15$</span>] - [Advanced Decay](https://imperialplugins.com/Products/ProductDetails?ProductID=102) (<a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/AdvancedDecay">src</a>) - Better decay system than the one unturned offers.
+[<span style="color:darkgreen">15$</span>] - [Advanced Decay](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/AdvancedDecay) ([Purchase](https://imperialplugins.com/Products/ProductDetails?ProductID=102)) - Better decay system than the one unturned offers.
 
-[<span style="color:darkgreen">15$</span>] - [Advanced Permissions](https://imperialplugins.com/Products/ProductDetails?ProductID=82) (<a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/AdvancedPermissions">src</a>) - Plugin that improves the permission system on rocketmod.
+[<span style="color:darkgreen">15$</span>] - [Advanced Permissions](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/AdvancedPermissions) ([Purchase](https://imperialplugins.com/Products/ProductDetails?ProductID=82)) - Plugin that improves the permission system on rocketmod.
 
-[<span style="color:darkgreen">20$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/AutoUpdate">Auto Update</a> - Automatically shuts down the server with a custom delay, warns everyone in the server that there's an update and then updates the entire server. This will not work in shared servers/shared hosting due to the policies of these hosting services.
+[<span style="color:darkgreen">20$</span>] - [Auto Update](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/AutoUpdate) - Automatically shuts down the server with a custom delay, warns everyone in the server that there's an update and then updates the entire server. This will not work in shared servers/shared hosting due to the policies of these hosting services.
 
-[<span style="color:darkgreen">20$</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/Quizes">Quizes</a> - Plugin that will ask the player a question with defined answers. If they answer wrong, the next time they take the quiz it'll cost them twice (does not stack).
+[<span style="color:darkgreen">20$</span>] - [Quizes](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/Quizes) - Plugin that will ask the player a question with defined answers. If they answer wrong, the next time they take the quiz it'll cost them twice (does not stack).
 
-[<span style="color:red">UNPRICED</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/UnturnedPanel">Accounts</a> - Plugin that allows users to create an account and be able to execute commands after logging in. Goes well with a website.
+[<span style="color:red">UNPRICED</span>] - [Accounts](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/UnturnedPanel) - Plugin that allows users to create an account and be able to execute commands after logging in. Goes well with a website.
 
-[<span style="color:red">PRIVATE - RESERVED TO LAHQIE</span>] - <a href="https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/Lahqie">Lahqie Core</a> - Core plugin for Lahqie's servers.
+[<span style="color:red">PRIVATE - RESERVED TO LAHQIE</span>] - [Lahqie Core](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/Lahqie) - Core plugin for Lahqie's servers.
 
 <h1>Extras</h1>
-For more information on the plugins above, other plugins, or offers, contact me on my e-mail: pustalorcother@gmail.com
+For more information, questions, offers, or anything similar, please contact me on my e-mail: pustalorcother@gmail.com
 
 <h3>Donate</h3>
 
