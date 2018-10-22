@@ -31,3 +31,10 @@ Languages: English, Spanish, French
 3 Weeks - JS (JavaScript)
 
 2 Weeks - CSS (Cascading Style Sheets)
+
+### Extras
+For more information, questions, offers, or anything similar, please contact me on my e-mail: pustalorc@gmail.com
+
+### Donations
+
+Paypal - [Paypal.me Style](https://www.paypal.me/pustalorc)
