@@ -5,5 +5,3 @@
 # [Commissioned Projects](/paid.md)
 
 # [Open Source Projects](/opensource.md)
-
-# [Abandoned Projects](/abandoned.md)
