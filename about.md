@@ -18,7 +18,7 @@ Languages: English, Spanish, French
 
 
 
-Programming Knowledge [No Studies, Just Raw Development For All Of These]:
+### Programming Knowledge [No Studies, Just Raw Development For All Of These]:
 
 2 Years - C# Development
 
