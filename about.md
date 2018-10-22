@@ -1,7 +1,5 @@
 # About Me
 
-
-
 Name: Vicente Pastor
 
 Birthday: 03 / 04 (DD/MM)
@@ -17,8 +15,11 @@ Nationality: Spanish
 
 
 ### Language Knowledge
+
 English - IELTS 7.5 Overall (8.5 Reading, 8.5 Speaking, 8.0 Listening, 5.5 Writing)
+
 Spanish - No official exam has been taken.
+
 French - DELF B1 Official ~65% Score
 
 
