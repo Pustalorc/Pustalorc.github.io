@@ -1,4 +1,6 @@
-# Commissioned Projects - Projects that I have received money for or I've made for someone specifically.
+# Commissioned Projects
+
+### These are projects that I have received money for or I've made for someone specifically.
 
 [<span style="color:green">Free</span>] - [AFK](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/Afk) - Ultra sub mega simple afk plugin.
 
@@ -35,8 +37,6 @@
 [<span style="color:darkgreen">20$</span>] - [Auto Update](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/AutoUpdate) - Automatically shuts down the server with a custom delay, warns everyone in the server that there's an update and then updates the entire server. This will not work in shared servers/shared hosting due to the policies of these hosting services.
 
 [<span style="color:darkgreen">20$</span>] - [Quizes](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/Quizes) - Plugin that will ask the player a question with defined answers. If they answer wrong, the next time they take the quiz it'll cost them twice (does not stack).
-
-[<span style="color:darkgreen">20$</span>] - [Server Sync](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/ServerSync) - A plugin that syncs all player data accross servers.
 
 [<span style="color:red">PRIVATE - RESERVED TO LAHQIE</span>] - [Lahqie Core](https://github.com/persiafighter/PrivateRocketmodPlugins/tree/master/src/Lahqie) - Core plugin for Lahqie's servers.
 
