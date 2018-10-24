@@ -2,13 +2,7 @@
 
 Name: Vicente Pastor
 
-Birthday: 03 / 04 (DD/MM)
-
-Age: 18
-
 Studies: Computer Science BSc - Undergraduate Year 1
-
-Hobbies: Videogames
 
 Nationality: Spanish
 
@@ -40,7 +34,3 @@ French - DELF B1 Official ~65% Score
 
 ### Extras
 For more information, questions, offers, or anything similar, please contact me on my e-mail: pustalorc@gmail.com
-
-### Donations
-
-Paypal - [Paypal.me Style](https://www.paypal.me/pustalorc)
