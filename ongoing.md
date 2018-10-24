@@ -6,4 +6,4 @@
 
 [<span style="color:yellow">[ATORT Network](http://github.com/persiafighter/ATORT-Network)</span>] - Working with AddjusT. It is a custom p2p network. Currently halted.
 
-[<span style="color:green">[ATORT OS](http://github.com/persiafighter/ATORT-OS)</span>] - A game idea I had. Currently working on the core code. No graphics or visuals have been made yet, so testing isn't possible yet.
+[<span style="color:green">ATORT OS</span>] - A game idea I had. Currently working on the core code. No graphics or visuals have been made yet, so testing isn't possible yet.
