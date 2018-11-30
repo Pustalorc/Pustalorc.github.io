@@ -9,49 +9,49 @@ We offer the following features:
 
 ### Checking the weather
 
-![Checking the weather](/awesomebot/weather.gif)
+<img src="/awesomebot/weather.gif" width="400" height="100" alt="Checking the weather">
 
 
 
 ### Subscribing to your favourite youtuber
 
-![Subscribing to PewDiePie](/awesomebot/subscribe.gif)
+<img src="/awesomebot/subscribe.gif" width="400" height="100" alt="Subscribing to PewDiePie">
 
 
 
 ### Unsubscribing from bad youtubers
 
-![Unsubscribing from TSeries](/awesomebot/unsubscribe.gif)
+<img src="/awesomebot/unsubscribe.gif" width="400" height="100" alt="Unsubscribing from TSeries">
 
 
 
 ### Checking who the bot is subscribed to
 
-![Getting list of subscriptions](/awesomebot/subscriptions.gif)
+<img src="/awesomebot/subscriptions.gif" width="400" height="100" alt="Getting a list of subscriptions">
 
 
 
 ### Asking for Jokes
 
-![A joke](/awesomebot/joke.gif)
+<img src="/awesomebot/joke.gif" width="400" height="100" alt="A joke">
 
 
 
 ### Tweeting something on Twitter.
 
-![Tweeting Hello Internet!](/awesomebot/tweet.gif)
+<img src="/awesomebot/tweet.gif" width="400" height="100" alt="Tweeting Hello Internet!">
 
 
 
 ### Following someone on Twitter.
 
-![Following PewDiePie](/awesomebot/follow.gif)
+<img src="/awesomebot/follow.gif" width="400" height="100" alt="Following PewDiePie">
 
 
 
 ### Unfollowing a hated person on Twitter.
 
-![Unfollowing TSeries](/awesomebot/unfollow.gif)
+<img src="/awesomebot/unfollow.gif" width="400" height="100" alt="Unfollowing TSeries">
 
 
 
