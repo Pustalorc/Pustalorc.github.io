@@ -75,4 +75,4 @@ The project was a success, and I did a lot of work, however I feel like our team
 
 
 
-[Go Back](/university.md)
+[Go Back](/university)
