@@ -59,11 +59,11 @@ We offer the following features:
 
 
 
-### Youtube Feed
+### YouTube Feed
 
-The Youtube Feed was my largest contribution to this project.
+The YouTube Feed was my largest contribution to this project.
 
-Consisting of about 1000 lines of code, 4 files working together, and Object Oriented Concepts, I am heavily proud of this contribution
+Consisting of about 1000 lines of code, 4 files working together, and Object-Oriented Concepts, I am heavily proud of this contribution
 
 
 
@@ -110,11 +110,11 @@ The most challenging thing with python development was making sure that the code
 
 ### Teamwork
 
-I worked closely with my team-members, mainly attempting to make sure that those who needed help got it, and those who knew what were doing were informing the Scrum Master about their progress.
+I worked closely with my team-members, mainly attempting to make sure that those who needed help got it, and those who had no issues were informing the Scrum Master about their progress.
 
-We had to switch from Discord to Slack, so I had to co-operate with the Scrum Master as well as my other teammates in order to correctly migrate to Slack without any problems.
+We had to switch from Discord to Slack, so I had to co-operate with the Scrum Master as well as my other teammates to correctly migrate to Slack without any problems.
 
-In the end, this worked out perfectly fine, and we were able to correctly migrate to Slack, with no issues, and we still keep everyone informed on big decisions, and try to keep everyone on track.
+In the end, this worked out perfectly fine, and we were able to correctly migrate to Slack, with no issues, and we keep everyone informed on big decisions, and try to keep everyone on track.
 
 
 
@@ -122,23 +122,23 @@ In the end, this worked out perfectly fine, and we were able to correctly migrat
 
 I have learnt to more correctly utilize version control, branching, and merging with conflicts, but solving them with the rest of the team for a major agreement on what should be kept and what should be thrown away.
 
-Since it was all in a team project, I had to make sure that all commits I did were commited to the correct branch to not create conflicts.
+Since it was all in a team project, I had to make sure that all commits I did were committed to the correct branch to not create conflicts.
 
-In the end, the main challenge I have to overcome with version control is splitting my commits into smaller, more precise and specific commits.
+In the end, the main challenge I must overcome with version control is splitting my commits into smaller, more precise and specific commits.
 
 
 
-## Conclusion And Reflection
+## Conclusion and Reflection
 
 In conclusion, the project was not fully complete by the dead-line, however enough progress was made to call it a working prototype.
 
-Looking back at the project, I quickly assumed that it would be a really simple task to complete, and that we would not take too much time to make something decent.
+Looking back at the project, I quickly assumed that it would be a simple task to complete, and that we would not take too much time to make something decent.
 
-I feel like I have changed my attitude towards the project now, as I tried to challenge myself with the Youtube Feed, however I do not feel like it was a good choice, since I had to break my head multiple times over the simplest of issues that python would throw my way.
+I feel like I have changed my attitude towards the project now, as I tried to challenge myself with the YouTube Feed, however I do not feel like it was a good choice, since I had to break my head multiple times over the simplest of issues that python would throw my way.
 
 One of these simple issues was asynchronous methods... Python does not like running asynchronous methods without awaiting them, which personally, I feel defeats the purpose of having asynchronous methods in the first place.
 
-In the end, I learnt that even simple issues will have simple answers, but breaking yourself trying to figure it out will not help, and calling for help will benefit anyone who is stuck.
+In the end, I learnt that even simple issues will have simple answers; but breaking yourself trying to figure it out will not help and calling for help will benefit anyone who is stuck.
 
 
 
