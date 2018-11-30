@@ -12,7 +12,7 @@ Nationality: Spanish
 
 English - IELTS 7.5 Overall (8.5 Reading, 8.5 Speaking, 8.0 Listening, 5.5 Writing)
 
-Spanish - No official exam has been taken.
+Spanish - No official exam has been taken. Native speaker.
 
 French - DELF B1 Official ~65% Score
 
@@ -24,13 +24,15 @@ French - DELF B1 Official ~65% Score
 
 1 Year - VBS (Visual Basic Script)
 
-1 Month - HTML (Hyper Text Markup Language)
+3 Months - PY (Python)
 
-1 Month - Py (Python)
+1 Month - HTML (Hyper Text Markup Language)
 
 3 Weeks - JS (JavaScript)
 
 2 Weeks - CSS (Cascading Style Sheets)
+
+
 
 ### Extras
 For more information, questions, offers, or anything similar, please contact me on my e-mail: pustalorc@gmail.com
