@@ -43,3 +43,7 @@ Lahqie Core - Core plugin for Lahqie's servers.
 Jail And Arrest - A custom jailing, arresting and robbing plugin requested by Nightghast.
 
 Reputation Loadouts - A plugin that would provide a loadout on respawn depending on the player's reputation.
+
+
+
+[Go Back](/index.md)
