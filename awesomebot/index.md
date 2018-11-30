@@ -9,49 +9,49 @@ We offer the following features:
 
 ### Checking the weather
 
-(INSERT GIF OF WEATHER MESSAGES IN CHAT)
+![Checking the weather](/awesomebot/weather.gif)
 
 
 
 ### Subscribing to your favourite youtuber
 
-(INSERT GIF OF SUBSCRIBE PEWDIEPIE)
+![Subscribing to PewDiePie](/awesomebot/subscribe.gif)
 
 
 
 ### Unsubscribing from bad youtubers
 
-(INSERT GIF OF UNSUBSCRIBING TSERIES)
+![Unsubscribing from TSeries](/awesomebot/unsubscribe.gif)
 
 
 
 ### Checking who the bot is subscribed to
 
-(INSERT GIF OF SUBSCRIPTIONS)
+![Getting list of subscriptions](/awesomebot/subscriptions.gif)
 
 
 
 ### Asking for Jokes
 
-(INSERT GIF OF TELL ME A JOKE)
+![A joke](/awesomebot/joke.gif)
 
 
 
 ### Tweeting something on Twitter.
 
-(INSERT GIF OF !TWEET HELLO EVERYONE!)
+![Tweeting Hello Internet!](/awesomebot/tweet.gif)
 
 
 
 ### Following someone on Twitter.
 
-(INSERT GIF OF !FOLLOW PEWDIEPIE)
+![Following PewDiePie](/awesomebot/follow.gif)
 
 
 
 ### Unfollowing a hated person on Twitter.
 
-(INSERT GIF OF !UNFOLLOW T-SERIES)
+![Unfollowing TSeries](/awesomebot/unfollow.gif)
 
 
 

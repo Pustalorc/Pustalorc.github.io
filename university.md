@@ -1,3 +1,3 @@
 # University Projects
 
-[Awesome Bot](/awesomebot.md) - A chat bot project.
+[Awesome Bot](/awesomebot/index.md) - A chat bot project.
