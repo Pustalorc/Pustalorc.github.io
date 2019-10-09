@@ -1,26 +1,16 @@
 # Programs
 
-[Decryptor](https://github.com/persiafighter/d3crypt0r) - Program that will "decrypt" a message encrypted with the Encryptor program by bruteforcing the characters to get the values (due to this bruteforce, some keys & messages might have more than 1 result).
+[Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) - A very simple port of a gambling game known as "crash".
 
-[Encryptor](https://github.com/persiafighter/3ncrypt0r) - Program that encrypts a message using a defined dictionary of 189 characters with the affine cipher. The "keys" are generated randomly in a range of 0 to 188.
+[File Converter](https://github.com/persiafighter/File-Converter) - Simple file converting application that uses the API of this site: zamzar.com(http://zamzar.com) (Not sponsored by them in any way)
 
-[Dictionary Creator](https://github.com/persiafighter/DictionaryCreator) - Program that creates "password dictionaries", currently inneficient when it comes to system resource usage.
+[Rocket Config Editor](https://github.com/persiafighter/RocketConfigEditor) - Editor for rocket's permissions and commands.config.xml that uses a friendly UI.
 
-[ATORT-Network](https://github.com/persiafighter/EXTRATHICC) - A custom p2p network.
+[RPG](https://github.com/persiafighter/RPG) - A very old game that I programmed in VBS. It was never finnished, but it worked more or less like a game, including save states, 1 single exit point (since I didn't know where else to add them), a "story", and a flow of direction. Project is abandoned and will never be continued in VBS.
 
-[Fake Gambling - Crash](https://github.com/persiafighter/FakeGambling-Crash) - Very simple Gambling type game.
+[Support Bot](https://github.com/persiafighter/Support-Bot) - Interatcive discord bot that attempts to learn and help people.
 
-[File Converter](https://github.com/persiafighter/File-Converter) - Simple file converting application that uses the API of this site: zamzar.com(http://zamzar.com) (Not sponsored by them e_e)
-
-[Rocket Config Editor](https://github.com/persiafighter/RocketConfigEditor) - GUI editor for rocket's permissions and commands.config.xml.
-
-[RPG - (OLD Page)](http://rpg-v2.boards.net/) -- [RPG - (Github Page)](https://github.com/persiafighter/RPG) - A very old game that I programmed in VBS. It was never finnished, but it worked more or less like a game, including save states, 1 single exit point (since I didn't know where else to add them), a "story", and a flow of direction. Project is abandoned.
-
-[Support Bot](https://github.com/persiafighter/Support-Bot) - Interactive discord bot that tries it's best to support people.
-
-[Unturned Server Manager](https://persiafighter.github.io/UnturnedServerManager/) - GUI to manage and start unturned servers.
-
-[Unturned Server Tool](https://github.com/persiafighter/Unturned-Server-Tool) - Command line tool to update an unturned server & start it.
+[Unturned Server Manager](https://persiafighter.github.io/UnturnedServerManager/) - A lightweight program to make creating, running, and modifying unturned servers much easier with a friendly UI.
 
 # Rocketmod/Unturned Plugins
 
